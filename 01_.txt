@@ -1,0 +1,13 @@
+Answer-(1) Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code.
+   It allows developers to see should who made what changes and when, and to revert to previous versions of the code if needed.
+   Version control is essential for software development because it allows teams to collaborate on the same project without stepping on each other's. It not only keeps source code organized but also improves productivity by making the development process smooth.
+
+ These are some of its importance in software development-
+
+1:Collaboration- Makes it easy for multiple developers to work on the same project at the same time.Developers can create their own branches of the code to work on new features or fix bugs, and then merge their changes back into the main codebase once they are complete.
+
+2:History- keeps a complete history of all changes to the code. This makes it easy to track down the source of a bug or to revert to a previous version of the code if necessary.
+
+3:Backup- Serves as a backup for the code. If a developer accidentally deletes a file or makes a mistake, they can easily restore the file or revert to a previous version of the code.
+
+4:Auditing- It can be used to audit changes to the code. This can be helpful for tracking down security vulner abilities or for complying with regulations.

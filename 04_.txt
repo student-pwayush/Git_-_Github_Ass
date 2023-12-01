@@ -1,0 +1,25 @@
+In present we can work with help of git GitHub, GitHub is a cloud-based service that hosts a version control system (VCS) called Git. It allows developers to collaborate and make changes to shared projects while keeping detailed track of their progress.
+
+
+(A) Code reviews: GitHub makes it easy for developers to review each other's code. This helps to improve the quality of the code and to identify potential bugs.
+
+(B) Creating & Issues: GitHub provides a way for developers to track issues and tasks related to their code. This helps teams to stay organized and to prioritize their work.
+
+(C) conclusion: GitHub provides a way for developers to discuss their code and ask questions. This helps to promote collaboration and knowledge sharing.
+
+(D) Version control: GitHub uses Git, a distributed version control system, to track changes to code. This allows developers to see who made what changes and when, and to revert to previous versions of the code it necessary.
+
+(E) Branches and pull requests: GitHub makes it easy for developers to create and manage branches of their.
+
+(G) Code commands . This allows developers to work on new features or fix bugs without affecting the main codebase. Once a developer is ready to merge their changes back into the main codebase, they can create a pull request. This allows other developers to review the changes and provide feedback before they are merged.
+
+These are the Plateforms gives the same features same as on Github---
+
+ (1) GitLab. GitLab is a powerful, open-source code management platform that supports the entire software development lifecycle. ...
+ (2) Bitbucket. ...
+ (3) SourceForge. ...
+ (4) Azure DevOps (formerly Visual Studio Team Services) ...
+ (5) Gitea. ...
+ (6) CircleCI. ...
+ (7) SpiraPlan (former TaraValut) ...
+ (8) Google Cloud Repositorie.

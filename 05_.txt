@@ -1,0 +1,11 @@
+Answer: how to contribute any project on github are as follows:-
+
+(1) Contribute a github repository--
+ 
+(2) Creating github Branches--
+
+(3) Understanding github commits--
+
+Creating github pull request--
+
+conclusion.

@@ -1,0 +1,16 @@
+Answer(2) Git is a popular version control system and a lot of companies use Git to manage their code.
+ The Git workflow is a set of steps and stages that developers follow to manage and track changes effectively using Git, a popular version control system. 
+
+It involves three main components: 
+
+The repository.
+
+The working directory.
+
+The staging area (also known as the index).
+
+1:Git repository- Any project managed using Git is called a Git repository. A Git repository will store all the project files and additional data needed for version control.
+
+2:Working directory- The shell always identifies a particular directory within which you are assumed to be working. This directory is known as the working directory (also known as the current working directory).
+
+3:Staging Area- In technical terms, the staging area is the middle ground between what you have done to your files (also known as the working directory) and what you had last committed (the HEAD commit). As the name implies, the staging area gives you space to prepare (stage) the changes that will be reflected on the next commit
